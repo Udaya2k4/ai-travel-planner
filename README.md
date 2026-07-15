@@ -178,7 +178,7 @@ You are an expert AI Travel Planner named "WanderAI"…
 You can also change the Granite model:
 
 ```python
-MODEL_ID = "ibm/granite-3-3-8b-instruct"   # change to another supported model
+MODEL_ID = "meta-llama/llama-3-3-70b-instruct"   # change to another supported model
 ```
 
 Adjust generation parameters:
@@ -215,5 +215,5 @@ MIT License — see [LICENSE](LICENSE) for details.
 ---
 
 <p align="center">
-  Made with IBM Bob &nbsp;|&nbsp; Powered by IBM Granite via watsonx.ai
+  Made with IBM Bob &nbsp;|&nbsp; Powered by watsonx.ai and Meta Llama 3.3 70B Instruct
 </p>
