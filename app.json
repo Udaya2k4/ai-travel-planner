@@ -1,0 +1,14 @@
+{
+  "name": "AI Travel Planner Agent",
+  "description": "AI-powered Travel Planner using IBM watsonx.ai, IBM BOB, Meta Llama 3.3 70B Instruct, Flask, and Python.",
+  "repository": "https://github.com/Udaya2k4/ai-travel-planner",
+  "keywords": [
+    "python",
+    "flask",
+    "ibm",
+    "watsonx",
+    "agentic-ai",
+    "travel-planner",
+    "meta-llama"
+  ]
+}
